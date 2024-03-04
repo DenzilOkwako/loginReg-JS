@@ -73,5 +73,15 @@ a {
     left: 50%;
     transform: translate(-50%,-50%);
     z-index: 101;
+    background: #fff;
 
+}
+.form_close{
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    color: #0b0217;
+    font-size: 22px;
+    opacity: 0.7;
+    
 }
