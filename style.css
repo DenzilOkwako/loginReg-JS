@@ -79,7 +79,14 @@ a {
     padding: 25px; 
     border-radius: 12px;
     box-shadow: rgba(0,0,0,0.1);
+    opacity:0;
+    pointer-events: none;
 
+
+}
+.home.show.form_container{
+    opacity: 1;
+    pointer-events: auto;
 
 }
 .signup_form{
