@@ -10,3 +10,4 @@
 
  formOpenBtn.addEventListener("click",()=> home.classList.add("show"))
  formCloseBtn.addEventListener("click",()=> home.classList.remove("show"))
+  
