@@ -66,12 +66,6 @@ a {
     background-image: url(assets/mac.jpg);
     background-size: cover;
     background-position: center;
-
-}
-.home.show{
-
-    capacity:1;
-    pointer-events: auto;
 }
 .form_container {
     position: absolute;
@@ -85,11 +79,6 @@ a {
     padding: 25px; 
     border-radius: 12px;
     box-shadow: rgba(0,0,0,0.1);
-    capacity:0;
-    pointer-events: none;
-
-
-
 
 
 }
